@@ -9,8 +9,8 @@ O motor gerador das projeções é o algoritmo
 [Prophet](https://github.com/facebook/prophet), projeto de código aberto
 desenvolvido e mantido pelo time de ciência de dados do Facebook.
 
-Os atributos estão definidos no código-fonte, sem necessidade de
-intervenção manual.
+Os atributos do algoritmo já estão definidos no código-fonte, sem necessidade de
+intervenção manual ou input de parâmetros.
 
 O algoritmo está programado para levar em consideração a sazonalidade
 anual, já que esse é um comportamento observado nos dados da série
